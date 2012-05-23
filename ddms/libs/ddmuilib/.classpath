@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ddmlib"/>
-	<classpathentry kind="var" path="ANDROID_OUT_FRAMEWORK/swt.jar"/>
-	<classpathentry kind="var" path="ANDROID_SRC/prebuilts/tools/common/eclipse/org.eclipse.core.commands_3.6.0.I20100512-1500.jar"/>
-	<classpathentry kind="var" path="ANDROID_SRC/prebuilts/tools/common/eclipse/org.eclipse.equinox.common_3.6.0.v20100503.jar"/>
-	<classpathentry kind="var" path="ANDROID_SRC/prebuilts/tools/common/eclipse/org.eclipse.jface_3.6.2.M20110210-1200.jar"/>
-	<classpathentry kind="var" path="ANDROID_SRC/prebuilts/tools/common/jfreechart/jcommon-1.0.12.jar"/>
-	<classpathentry kind="var" path="ANDROID_SRC/prebuilts/tools/common/jfreechart/jfreechart-1.0.9-swt.jar"/>
-	<classpathentry kind="var" path="ANDROID_SRC/prebuilts/tools/common/jfreechart/jfreechart-1.0.9.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/osx/swt.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/eclipse/org.eclipse.core.commands_3.6.0.I20110111-0800.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/eclipse/org.eclipse.equinox.common_3.6.0.v20110523.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/eclipse/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/jfreechart/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/jfreechart/jfreechart-1.0.14-swt.jar"/>
+	<classpathentry kind="lib" path="/LogcatFileViewer/libs/jfreechart/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
