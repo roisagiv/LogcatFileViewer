@@ -3,8 +3,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ddmlib"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ddmuilib"/>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="lib" path="libs/eclipse/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
-	<classpathentry kind="lib" path="libs/osx/swt.jar"/>
+	<classpathentry kind="lib" path="libs/win32-x86_64/swt.jar"/>
+	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
