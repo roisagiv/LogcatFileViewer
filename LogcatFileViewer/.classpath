@@ -4,7 +4,7 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/ddmlib"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/ddmuilib"/>
 	<classpathentry kind="lib" path="libs/eclipse/org.eclipse.jface_3.7.0.v20110928-1505.jar"/>
-	<classpathentry kind="lib" path="libs/win32-x86_64/swt.jar"/>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/swt/swtjar.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
